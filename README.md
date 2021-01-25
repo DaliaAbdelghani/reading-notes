@@ -27,11 +27,9 @@ Ways to Develop a Growth Mindset
 
 -Replace the word “failing” with the word “learning.”
 
-**See what Carol Dwick say about mindset:**  
-
-[Developing a Growth Mindset with Carol Dweck](https://youtu.be/hiiEeMN7vbQ) 
+**See what Carol Dwick say about mindset:** [Developing a Growth Mindset with Carol Dweck](https://youtu.be/hiiEeMN7vbQ) 
 
 
-|Pages  |Description |
-|:-----:|:----------:|
-|[secondpage](https://daliaabdelghani.github.io/DaliaAbdelghani.github.io-reading-notes-/secondpage)|*Fixed vs Growth mindset Examples*|
+|Table of Content |
+|:---------------:|
+|[*Fixed vs Growth mindset Examples*](https://daliaabdelghani.github.io/DaliaAbdelghani.github.io-reading-notes-/secondpage)|
