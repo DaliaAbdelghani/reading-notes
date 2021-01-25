@@ -30,6 +30,6 @@ Ways to Develop a Growth Mindset
 **See what Carol Dwick say about mindset:** [Developing a Growth Mindset with Carol Dweck](https://youtu.be/hiiEeMN7vbQ) 
 
 
-|Table of Content |
-|:---------------:|
+|**Table of Contents**|
+|:-------------------:|
 |[*Fixed vs Growth mindset Examples*](https://daliaabdelghani.github.io/DaliaAbdelghani.github.io-reading-notes-/secondpage)|
