@@ -17,7 +17,7 @@
 *With this mindset you might as well do nothing and lounge about all day. Now I bet this sounds nice, but we’ve all had that period of seemingly sitting on your couch watching TV for what feels like a week, and we feel awful by the end right? Learn new things and take on new opportunities, you’ll definitely learn something. Who knows, you might end up really enjoying new things.*
 
 
-### more bout Mind set you may visit [Empowering Mindset Books](https://www.lifehack.org/articles/productivity/8-business-books-that-will-totally-change-your-mindset.html) for books recommendations:
+### More bout Mind set you may visit [Empowering Mindset Books](https://www.lifehack.org/articles/productivity/8-business-books-that-will-totally-change-your-mindset.html) for books recommendations:
 
 
 
