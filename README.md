@@ -12,8 +12,18 @@ By contrast, in a fixed mindset, intelligence and talent are seen as fixed trait
 
 Ways to Develop a Growth Mindset
 
--Acknowledge and embrace imperfections. -View challenges as opportunities. -Try different learning tactics. -Follow the research on brain plasticity. -Replace the word “failing” with the word “learning.”
+-Acknowledge and embrace imperfections.
 
-See what Carol Dwick say about mindset: [Developing a Growth Mindset with Carol Dweck]https://youtu.be/hiiEeMN7vbQ
+-View challenges as opportunities.
+
+-Try different learning tactics.
+
+-Follow the research on brain plasticity.
+
+-Replace the word “failing” with the word “learning.”
+
+See what Carol Dwick say about mindset:  
+
+[Developing a Growth Mindset with Carol Dweck]https://youtu.be/hiiEeMN7vbQ
 
 By Dalia Abdelghani https://github.com/DaliaAbdelghani
