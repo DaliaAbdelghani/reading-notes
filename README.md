@@ -1,6 +1,8 @@
 # Growth Mindset
 
-By Dalia Abdelghani https://github.com/DaliaAbdelghani
+By Dalia Abdelghani 
+
+[GitHub Profile](https://github.com/DaliaAbdelghani)
 
 
 A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning.
