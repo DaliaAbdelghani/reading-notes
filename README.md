@@ -1,16 +1,19 @@
-### Hi there 👋
+# Growth Mindset
 
-**DaliaAbdelghani/DaliaAbdelghani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning.
 
-Here are some ideas to get you started:
+By contrast, in a fixed mindset, intelligence and talent are seen as fixed traits, suggesting that success comes from these inherent qualities alone, without the need for further development or effort.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![image](https://miro.medium.com/max/1200/1*TtlqcGNhwGaF0mOfsQJrOg.jpeg)
 
-![image](https://octodex.github.com/images/Terracottocat_Single.png)
+### Keep yourself in a growth mindset
+
+“In one world, effort is a bad thing. It, like failure, means you’re not smart or talented. If you were, you wouldn’t need effort. In the other world, effort is what makes you smart or talented.” –Carol Dweck
+
+Ways to Develop a Growth Mindset
+
+-Acknowledge and embrace imperfections. -View challenges as opportunities. -Try different learning tactics. -Follow the research on brain plasticity. -Replace the word “failing” with the word “learning.”
+
+See what Carol Dwick say about mindset: [Developing a Growth Mindset with Carol Dweck]https://youtu.be/hiiEeMN7vbQ
+
+By Dalia Abdelghani https://github.com/DaliaAbdelghani
