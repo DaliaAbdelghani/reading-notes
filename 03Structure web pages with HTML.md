@@ -23,6 +23,8 @@
 * Attributes require a name and a value.
 * To learn HTML you need to know what tags are available for you to use, what they do, and where they can go.
 
+![Web site structure](https://www.edupointbd.com/wp-content/uploads/2017/09/Basic-website-layout.png)
+
 ### 3. HTML5 Layout 
 
 #### It is important to know the layout elements and the browser version to obtain the best results and effect these elements.
@@ -34,17 +36,15 @@
 
 ### 4. Extra MARKUP 
 
-* ‘ DOCTYPES ’ tell browsers which version of HTML you are using.
-
-* You can add comments to your code between the ‘<!-- and -->’ markers.
+* DOCTYPES tell browsers which version of HTML you are using. 
 
 * The id and class attributes allow you to identify particular elements.
 
-* The ' <div> ’ and ‘ <span> ’ elements allow you to group block-level and inline elements together.
+* The div and span elements allow you to group block-level and inline elements together.
 
-* ‘ <iframes> ’ cut windows into your web pages through which other pages can be displayed.
+* The frames tag cut windows into your web pages through which other pages can be displayed.
 
-* The ‘ <meta> ’ tag allows you to supply all kinds of information about your web page.
+* The meta tag allows you to supply all kinds of information about your web page.
 
-* Escape characters are used to include special characters in your pages such as ‘ <, >, and ©. ’
+* Escape characters are used to include special characters in your pages.
 
