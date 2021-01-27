@@ -13,7 +13,7 @@
 
 ## Logical Operators
 
-![image logical ops](https://www.miltonmarketing.com/wp-content/uploads/2018/04/javascriptcomparisonoperatorsimage041-1200x482.jpg)
+![image logical ops](https://cdn.spotle.ai/7262/large/clwi7D1ahO.JPG)
 
 # LOOPS 
 
