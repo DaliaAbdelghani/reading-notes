@@ -1,8 +1,8 @@
 
 ![image photo](https://ourcodeworld.com/public-media/articles/articleocw-5755472112ab3.jpg)
 
-    ## Markdown and GitHub
-    
+## Markdown and GitHub 
+
 + **Markdown** : *is a way to format the contents of pages, mostly used in GitHub.* 
 + **Markdown** uses symbols and non-alphabetic characters.
 
