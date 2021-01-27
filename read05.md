@@ -12,15 +12,8 @@
 ![image comparison ops](https://cdn.javascripttutorial.net/wp-content/uploads/2016/11/JavaScript-Comparison-Operators.png)
 
 ## Logical Operators
-+ && (and) — This operator will be truthy (act like true) if and only if the expressions on both sides of it are true.
-+ || (or) — This operator will be truthy if the expression on either side of it is true. Otherwise, it will be false.
-+ var is True = ('yellow' === 'green') && (4 >= 4);
-+ In the example above, we check if the string 'yellow' is equal to the string 'green' and (&&) if 4 is greater than or equal to 4. Let’s break this down into the two comparison expressions.
-+ The first expression is false, because the string 'yellow' is not the same (equal) as the string 'green'.
-+ The second expression is true, because the number 4 is greater than or equal to 4.
-+ The && operator requires that both expressions be true in order for the expression to be truthy. Because one expression is false and the other is true, the expression is false and evaluates too false.
 
-![image logical ops](https://cdn.educba.com/academy/wp-content/uploads/2020/01/Logical-Operators-in-JavaScript.jpg)
+![image logical ops](https://www.miltonmarketing.com/wp-content/uploads/2018/04/javascriptcomparisonoperatorsimage041-1200x482.jpg)
 
 # LOOPS 
 
@@ -28,19 +21,19 @@
 
 There are four types of loops in JavaScript.
 
-1. for loop: iterates the elements for the fixed number of times. It should be used if number of iterations is known.
+1.for loop: iterates the elements for the fixed number of times. It should be used if number of iterations is known.
 
 
 ![image for](https://cdn.programiz.com/sites/tutorial2program/files/javascript-for-loop.png)
 
 
-2. while loop: iterates the elements for the infinite number of times. It should be used if number of iterations is not known.
+2.while loop: iterates the elements for the infinite number of times. It should be used if number of iterations is not known.
 
 ![image while](https://cdn.programiz.com/sites/tutorial2program/files/javascript-while-loop.png)
 
 
-3. do-while loop: iterates the elements for the infinite number of times like while loop. But code is executed at least once whether condition is true or false.
+3.do-while loop: iterates the elements for the infinite number of times like while loop. But code is executed at least once whether condition is true or false.
 
 ![image do-while](https://cdn.programiz.com/sites/tutorial2program/files/javascript-do-while-loop.png)
 
-4. for-in loop: iterate the properties of an object. 
+4.for-in loop: iterate the properties of an object. 
