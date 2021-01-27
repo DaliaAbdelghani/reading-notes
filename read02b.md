@@ -16,4 +16,4 @@
 + git status: to show the current status. 
 + Generally the most frequently git commands used by developer as follow: 
 
-![image chart](https://miro.medium.com/max/576/1*VQQoNths6TklkJlyBn5UXA.png)
+     ![image chart](https://miro.medium.com/max/576/1*VQQoNths6TklkJlyBn5UXA.png)
