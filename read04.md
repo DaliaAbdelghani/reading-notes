@@ -29,7 +29,7 @@
    4. COMPARISON OPERATORS
    5. LOGICAL OPERATORS 
 
-![image operators](https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/03JavaScript-Operators-1200x720.jpg)
+![image operators](https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/03/JavaScript-Operators-1200x720.jpg)
 
 + **ARITHMETIC OPERATORS**
    ![image chart]( https://www.devopsschool.com/blog/wp-content/uploads/2020/07/JavaScript-Arithmatic-Operators.png)
