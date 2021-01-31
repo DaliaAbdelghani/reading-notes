@@ -4,11 +4,14 @@
 
 •	CSS works by associating rules with HTML elements. These rules govern how the content of specified elements should be displayed. A CSS rule contains two parts: a selector and a declaration.
 
-               ![image ph](https://www.studytonight.com/cascading-style-sheet/images/css-syntax-1.png) 
+![image1](https://www.studytonight.com/cascading-style-sheet/images/css-syntax-1.png)
+
+            
 
 •	CSS declarations sit inside curly brackets and each is made up of two parts: a property and a value, separated by a colon. You can specify several properties in one declaration, each separated by a semi-colon.
 
-                  ![image2](https://slideplayer.com/slide/13771255/85/images/9/CSS+PROPERTIES+AFFECT+HOW+ELEMENTS+ARE+DISPLAYED.jpg)
+![image2](https://slideplayer.com/slide/13771255/85/images/9/CSS+PROPERTIES+AFFECT+HOW+ELEMENTS+ARE+DISPLAYED.jpg)
+
 
 •	CSS rules usually appear in a separate document, although they may appear within an HTML page.
 •	Color not only brings your site to life, but also helps convey the mood and evokes reactions.
@@ -18,4 +21,4 @@
 •	CSS3 has introduced an extra value for RGB colors to indicate opacity. It is known as RGBA.
 •	CSS3 also allows you to specify colors as HSL values, with an optional opacity value. It is known as HSLA.
 
-                        ![image logo](https://sabe.io/classes/css/hero.png)
+ ![image logo](https://sabe.io/classes/css/hero.png)           
