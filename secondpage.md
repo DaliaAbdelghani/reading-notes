@@ -17,4 +17,4 @@
 [Empowering Mindset Books](https://www.lifehack.org/articles/productivity/8-business-books-that-will-totally-change-your-mindset.html)
 
 
-![It is about how you think!](https://www.techtello.com/wp-content/uploads/2020/06/fixed-mindset-vs-growth-mindset-difference.png?x54983) 
+![It is about how you think!](https://www.techtello.com/wp-content/uploads/2020/06/fixed-mindset-vs-growth-mindset-difference.png?x54983)
