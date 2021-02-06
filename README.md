@@ -6,24 +6,24 @@
 
 ## Table of contents - 201 Daily reading assignments
 
-|           Assignment                  |                                             Link                                 |
-|---------------------------------------|----------------------------------------------------------------------------------|
-|        Pre-Work - Lab: 01a            | [Create a Reading Notes Repo](https://daliaabdelghani.github.io/reading-notes/)  |
-|        Pre-Work - Read 01             |  Will be available before assignment due date\[Introductory HTML and JavaScript]\|
-|        Assignment 2                   |  Will be available before assignment due date                                    |
-|        Assignment 3                   |  Will be available before assignment due date                                    |
-|        Assignment 4                   |  Will be available before assignment due date                                    |
-|        Assignment 5                   |  Will be available before assignment due date                                    |
-|        Assignment 6                   |  Will be available before assignment due date                                    |
-|        Assignment 7                   |  Will be available before assignment due date                                    |
-|        Assignment 8                   |  Will be available before assignment due date                                    |
-|        Assignment 9                   |  Will be available before assignment due date                                    |
-|        Assignment 10                  |  Will be available before assignment due date                                    |
-|        Assignment 11                  |  Will be available before assignment due date                                    |
-|        Assignment 12                  |  Will be available before assignment due date                                    |
-|        Assignment 13                  |  Will be available before assignment due date                                    |
-|        Assignment 14                  |  Will be available before assignment due date                                    |
-|        Assignment 15                  |  Will be available before assignment due date                                    |
+|           Assignment                  |                                             Link                                            |
+|---------------------------------------|---------------------------------------------------------------------------------------------|
+|        Pre-Work - Lab: 01a            | [Create a Reading Notes Repo](https://daliaabdelghani.github.io/reading-notes/)             |
+|        Pre-Work - Read 01             | [Introductory HTML and JavaScript](https://daliaabdelghani.github.io/reading-notes/class-01)|
+|        Assignment 2                   | *Will be available by assignment due date*                                                  |
+|        Assignment 3                   |  *Will be available by assignment due date*                                                 |
+|        Assignment 4                   |  *Will be available by assignment due date*                                                 |
+|        Assignment 5                   |  *Will be available by assignment due date*                                                 |
+|        Assignment 6                   |  *Will be available by assignment due date*                                                 |
+|        Assignment 7                   |  *Will be available by assignment due date*                                                 |
+|        Assignment 8                   |  *Will be available by assignment due date*                                                 |
+|        Assignment 9                   |  *Will be available by assignment due date*                                                 |
+|        Assignment 10                  |  *Will be available by assignment due date*                                                 |
+|        Assignment 11                  |  *Will be available by assignment due date*                                                 |
+|        Assignment 12                  |  *Will be available by assignment due date*                                                 |
+|        Assignment 13                  |  *Will be available by assignment due date*                                                 |
+|        Assignment 14                  | *Will be available by assignment due date*                                                  |
+|        Assignment 15                  |  *Will be available by assignment due date*                                                 |
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
@@ -40,12 +40,12 @@ Markdown is a lightweight markup language for creating formatted text using a pl
 GitHub Pages are public webpages hosted and easily published through GitHub. The quickest way to get up and running is by using the Jekyll Theme Chooser to load a pre-made theme. You can then modify your GitHub Pages’ content and style remotely via the web or locally on your computer.
 
 *To create your web site using GitHub, follow the below steps:*
-1. create a new account.
-2. Create new repo.
-3. Determine the repo source and theme from settings tab.
-4. Write your code and commit any change under Code tab. 
+  1. Create a new account.
+  2. Create new repo.
+  3. Determine the repo source and theme from settings tab.
+  4. Write your code and commit any change under Code tab. 
 
-GitHub provides features such as creating mirrored folders on your device that allows developers to create and update their works then deplying the links on GitHub in a procedure hinted by ACP commands which stands for (git add, git commit and git push) commands. 
+GitHub provides features such as creating mirrored folders on your device that allows developers to create and update their works then deploying the links on GitHub in a procedure hinted by ACP commands which stands for (git add, git commit and git push) commands. 
 
 More details are available on [Getting Started with GitHub Pages](https://guides.github.com/features/pages/)
 
