@@ -52,7 +52,7 @@ More details are available on [Getting Started with GitHub Pages](https://guides
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 
-**You Need A _Growth Mindset_ to be a distinguished developer. But What is a _growth mindset_ ?** :thinking:
+**You Need A _Growth Mindset_ to be a distinguished developer. But What is a _growth mindset_ ?** 
 
 ### Growth Mindset
 

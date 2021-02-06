@@ -3,7 +3,7 @@
 
 ## 1) How people access the web : 
 
-You would like to view CANVAS, so you type *https://www.canvas.net* in the address bar of your web browser, and in moments CANVAS is available to you. But what happens behind the scenes? :thinking:
+You would like to view CANVAS, so you type *https://www.canvas.net* in the address bar of your web browser, and in moments CANVAS is available to you. But what happens behind the scenes? 
 
 In fact a group of software, devices and systems are working together in collaboration to load the web site you request. 
 
@@ -59,17 +59,17 @@ characters:   `<!-- comment goes here -->`.
 
 - **class attribute** : Every HTML element can also carry a class attribute. Sometimes, rather than uniquely identifying one element within a document, class attribute identify several elements as being different from the other elements on the page.The class attribute on any element can share the same value. 
 
-- **Block elements**: elements which always appear to start on a new line in the browser window. Such as ` <h1> , <p> , <ul> , and <li>.`
+- **Block elements**: elements which always appear to start on a new line in the browser window. Such as `<h1> , <p> , <ul> , and <li>`.
 
-- **In-line elements**: elements which always appear to continue on the same line as their neighbouring elements.  Such as `<a> , <b> , <em> , and <img> `
+- **In-line elements**: elements which always appear to continue on the same line as their neighbouring elements.  Such as `<a> , <b> , <em> , and <img>`. 
 
-- The ` <div> ` element allows you to group a set of elements together in one block-level box.
+- The `<div>` element allows you to group a set of elements together in one block-level box.
 
 - The `<span>` element acts like an inline equivalent of the `<div>` element. It is used to either:Contain a section of text
 where there is no other suitable element to differentiate it from its surrounding text, or Contain a number of inline
 Elements. 
 
-- An `<iframe> ` is like a little window that has been cut into the page — and in that window another page is shown. The term
+- An `<iframe>` is like a little window that has been cut into the page — and in that window another page is shown. The term
 iframe is an abbreviation of inline frame.
 
 - The `<meta>` element lives inside the `<head>` element and contains information about that web page. It is not visible to users but fulfills a number of purposes such as telling search engines about your page, who created it, and whether or not it is time
@@ -80,7 +80,7 @@ sensitive. It  is an empty element so it does not have a closing tag. It uses at
 
 ![](https://imgv2-2-f.scribdassets.com/img/document/415142310/original/c296b1e00c/1609458872?v=1)
 
-- Older browsers that do not understand HTML5 elements need to be told which elements are block-level elements. This can be done by using CSS, for example :` header, section, footer, aside, nav, article, figure {display: block;}`
+- Older browsers that do not understand HTML5 elements need to be told which elements are block-level elements. This can be done by using CSS, for example :`header, section, footer, aside, nav, article, figure {display: block;}`
 
 - To make HTML5 elements work in Internet Explorer 8 (and older versions of IE), extra JavaScript is needed, which is available free from Google.
 
@@ -125,7 +125,7 @@ Tips for designing a wonderful website. Before starting in creating your own web
 
 - CSS page is linked with HTML using tag `<link rel=”stylesheet” href=”URL”/>.` which is written in head section of HTML page. 
 
-- JS page is linked with HTML using tage `<script src=”URL”>…</script>`. 
+- JS page is linked with HTML using tage `<script src=”URL”>.....</script>`. 
 
 ![](https://qph.fs.quoracdn.net/main-qimg-aea6d70e3db223864d778ee560ec62c0.webp)
  
