@@ -1,4 +1,6 @@
 
+# Code 102 Reading Notes
+
 ![image photo](https://ourcodeworld.com/public-media/articles/articleocw-5755472112ab3.jpg)
 
 ## Markdown and GitHub 
