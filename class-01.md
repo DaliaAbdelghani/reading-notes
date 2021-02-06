@@ -119,9 +119,9 @@ Tips for designing a wonderful website. Before starting in creating your own web
 ## 5) Writing a script for a web page: 
  
 - The best practice to write a script for a web page is to create three separated pages linked together : 
-   1.HTML page with extension .html : for determining the page structure and the contents. 
-   2.CSS page with extension .css : for adding formatting and style to the content. 
-   3.JavaScript page with extension .JS: for adding interactive elements.
+   1. HTML page with extension .html : for determining the page structure and the contents. 
+   2. CSS page with extension .css : for adding formatting and style to the content. 
+   3. JavaScript page with extension .JS: for adding interactive elements.
 
 - CSS page is linked with HTML using tag `<link rel=”stylesheet” href=”URL”/>.` which is written in head section of HTML page. 
 
