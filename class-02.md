@@ -1,4 +1,3 @@
-Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions
 
 # Texts in HTML :
 
@@ -8,7 +7,7 @@ Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions
 
 - HTML has six "levels" of headings ( from heading 1 the most important and largest font size to heading 6 the least important and smallest font size).
 
-                   ![](https://www.schudio.com/wp-content/uploads/2016/10/html-headings.png?x97747)
+    ![](https://www.schudio.com/wp-content/uploads/2016/10/html-headings.png?x97747)
 
 - To mark up a paragraph in HTML tag `<p> ….</p>` is used. Each paragraph is shown on a new line with some space between it and any subsequent paragraphs.
 
@@ -44,7 +43,8 @@ the contents of an `<em>` element in italic.
     + The `<q>` element is used for shorter quotes that sit within a paragraph.
 
 - The ‘cite’ attribute is used to indicate where the quote is from. Its value should be a URL that will have more information about the source of the quotation. Browsers will render the content of a `<cite>` element in italics.
-  Example: ‘`<blockquote cite="http://en.wikipedia.org/wiki/Winnie-the-Pooh"><p>Did you ever stop to think, and forget to start again?</p>`
+  Example: 
+      ‘`<blockquote cite="http://en.wikipedia.org/wiki/Winnie-the-Pooh"><p>Did you ever stop to think, and forget to start again?</p>`
 
 - The `<abbr>` element is used for abbreviation or acronym. A title attribute on the opening tag is used to specify the full term.
 
@@ -98,19 +98,20 @@ the contents of an `<em>` element in italic.
 - Logical operators allow you to combine more than one set of comparison operators.
 
 - `if ... else` statements allow you to run one set of code if a condition is true, and another if it is false.
+
         ![](https://cdn.javascripttutorial.net/wp-content/uploads/2016/08/JavaScript-if-statement.png) 
 
 
 
 
+# Writing a Git Commit Message:
 
+The seven rules of a great Git commit message by ***CHRIS BEAMS at https://chris.beams.io/posts/git-commit/***:
 
-The seven rules of a great Git commit message by CHRIS BEAMS at https://chris.beams.io/posts/git-commit/:
-
-1.Separate subject from body with a blank line
-2.Limit the subject line to 50 characters
-3.Capitalize the subject line
-4.Do not end the subject line with a period
-5.Use the imperative mood in the subject line
-6.Wrap the body at 72 characters
-7.Use the body to explain what and why vs. how
+  1. Separate subject from body with a blank line
+  2. Limit the subject line to 50 characters
+  3. Capitalize the subject line
+  4. Do not end the subject line with a period
+  5. Use the imperative mood in the subject line
+  6. Wrap the body at 72 characters
+  7. Use the body to explain what and why vs. how
