@@ -9,11 +9,11 @@
 
 ## Table of contents - 201 Daily reading assignments
 
-|           Assignment                  |                                             Link                                            |
+|           Assignment                  |                                         Link                                                |
 |---------------------------------------|---------------------------------------------------------------------------------------------|
 |        Pre-Work - Lab: 01a            | [Create a Reading Notes Repo](https://daliaabdelghani.github.io/reading-notes/)             |
 |        Pre-Work - Read 01             | [Introductory HTML and JavaScript](https://daliaabdelghani.github.io/reading-notes/class-01)|
-|        Assignment 2                   | *Will be available by assignment due date*                                                  |
+|        Class 02- Read: 02             | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://daliaabdelghani.github.io/reading-notes/class-02)|                                                 |
 |        Assignment 3                   |  *Will be available by assignment due date*                                                 |
 |        Assignment 4                   |  *Will be available by assignment due date*                                                 |
 |        Assignment 5                   |  *Will be available by assignment due date*                                                 |
