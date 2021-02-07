@@ -99,7 +99,7 @@ the contents of an `<em>` element in italic.
 
 - `if ... else` statements allow you to run one set of code if a condition is true, and another if it is false.
 
-        ![](https://cdn.javascripttutorial.net/wp-content/uploads/2016/08/JavaScript-if-statement.png) 
+    ![](https://cdn.javascripttutorial.net/wp-content/uploads/2016/08/JavaScript-if-statement.png) 
 
 
 
