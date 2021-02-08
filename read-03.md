@@ -1,4 +1,3 @@
-Read: 03 - HTML Lists, CSS Boxes, JS Control Flow
 
 # Lists in HTML:
 
@@ -12,12 +11,12 @@ HTML provides three different types of lists:
 
 ![](https://i0.wp.com/www.tutorialbrain.com/wp-content/uploads/2019/01/Unordered-List.jpg?fit=474%2C397&ssl=1)
 
-+ ***Definition lists** : made up of a set of terms along with the definitions for each of those terms.
++ ***Definition lists*** : made up of a set of terms along with the definitions for each of those terms.
 
 ![](https://slideplayer.com/slide/1607202/5/images/5/Definition+Lists+in+HTML.jpg)
 
 
-+ Nested lists: a second list can be put inside an `<li>` element to create a sub-list or nested list.Browsers display nested lists
++ **Nested lists**: a second list can be put inside an `<li>` element to create a sub-list or nested list.Browsers display nested lists
 indented further than the parent list. In nested unordered lists, the browser will usually change the style of the bullet point too.
 
 ![](https://i.stack.imgur.com/bjuI6.png) 
