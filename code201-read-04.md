@@ -51,7 +51,7 @@
 
  ![](https://matthewjamestaylor.com/img/illustrations/large/adding-css-to-html-with-link-embed-inline-and-import.jpg)
 
- # ***JS Functions, Methods, and Objects***
+ # ***JS Functions, Methods, and Objects:***
 
  + JavaScript functions are defined with the `function` keyword.
 
@@ -67,7 +67,7 @@
 
  + Functions can take parameters ( informatiorn required to do their job) and may return a value.
 
-# Pair programming:
+# ***Pair programming:***
 
 + Pair programming is the practice of two developers sharing a single workstation to interactively tackle a coding task together, it involves two roles: the Driver and the Navigator. 
 
