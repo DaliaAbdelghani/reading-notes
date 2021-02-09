@@ -14,8 +14,8 @@
 |        Pre-Work - Lab: 01a            | [Create a Reading Notes Repo](https://daliaabdelghani.github.io/reading-notes/)             |
 |        Pre-Work - Read 01             | [Introductory HTML and JavaScript](https://daliaabdelghani.github.io/reading-notes/class-01)|
 |        Class 02- Read: 02             | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://daliaabdelghani.github.io/reading-notes/class-02)|                                                 |
-|        Class 03- Read: 03                   | [HTML Lists, CSS Boxes, JS Control Flow](https://daliaabdelghani.github.io/reading-notes/read-03)                                                 |
-|        Class 04 - Read 04                   | [HTML Links, CSS Layout, JS Functions](https://daliaabdelghani.github.io/reading-notes/code201-read-04)                                                 |
+|        Class 03- Read: 03             | [HTML Lists, CSS Boxes, JS Control Flow](https://daliaabdelghani.github.io/reading-notes/read-03)                                                 |
+|        Class 04 - Read 04  | [HTML Links, CSS Layout, JS Functions](https://daliaabdelghani.github.io/reading-notes/code201-read-04)                                                 |
 |        Assignment 5                   |  *Will be available by assignment due date*                                                 |
 |        Assignment 6                   |  *Will be available by assignment due date*                                                 |
 |        Assignment 7                   |  *Will be available by assignment due date*                                                 |
