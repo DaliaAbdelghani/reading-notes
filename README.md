@@ -17,7 +17,7 @@
 |        Class 03- Read: 03             | [HTML Lists, CSS Boxes, JS Control Flow](https://daliaabdelghani.github.io/reading-notes/read-03)                                                 |
 |        Class 04 - Read 04  | [HTML Links, CSS Layout, JS Functions](https://daliaabdelghani.github.io/reading-notes/code201-read-04)                                                 |
 |        Class 05 - Read 05                   | [HTML Images; CSS Color & Text](https://daliaabdelghani.github.io/reading-notes/code201-read-05)                                                 |
-|        Assignment 6                   |  *Will be available by assignment due date*                                                 |
+|        Class 06- Read 06                   |[Problem Domain, Objects, and the DOM](https://daliaabdelghani.github.io/reading-notes/class6-read06)                                                |
 |        Assignment 7                   |  *Will be available by assignment due date*                                                 |
 |        Assignment 8                   |  *Will be available by assignment due date*                                                 |
 |        Assignment 9                   |  *Will be available by assignment due date*                                                 |
