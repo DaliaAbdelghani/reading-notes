@@ -20,7 +20,7 @@
 |        Class 06- Read 06                   |[Problem Domain, Objects, and the DOM](https://daliaabdelghani.github.io/reading-notes/class6-read06)                                                |
 |        Class 07 - Read 07                   |  [HTML Tables; JS Constructor Functions](https://daliaabdelghani.github.io/reading-notes/code201d16-read07)                                                 |
 |        Class 08  - Read 08                   | [CSS Layout](https://daliaabdelghani.github.io/reading-notes/code201d16-read08)                                                |
-|        Assignment 9                   |  *Will be available by assignment due date*                                                 |
+|        Class 09 - Read 09                   |  [Forms and JS Events](https://daliaabdelghani.github.io/reading-notes/code201-read09)                                                 |
 |        Assignment 10                  |  *Will be available by assignment due date*                                                 |
 |        Assignment 11                  |  *Will be available by assignment due date*                                                 |
 |        Assignment 12                  |  *Will be available by assignment due date*                                                 |
