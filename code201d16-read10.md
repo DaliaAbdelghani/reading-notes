@@ -18,14 +18,14 @@
 
 ![](https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/sites/2/2019/08/breakpoint-output-before.jpg)
 
-    + *The debugger keyword* : In JavaScript, the debugger keyword stops the execution and if available, calls the debugging function. The keyword works the same way as setting a breakpoint. In the absence of debugging, the debugger statement has no effect. With the debugger turned on, this code stops executing when it encounters a debugger statement.
++ *The debugger keyword* : In JavaScript, the debugger keyword stops the execution and if available, calls the debugging function. The keyword works the same way as setting a breakpoint. In the absence of debugging, the debugger statement has no effect. With the debugger turned on, this code stops executing when it encounters a debugger statement.
 
     ![](https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/sites/2/2019/08/debugger.jpg)
 
-    +*Debugging Tools in JavaScript*: 
-        1. Cypress.io.
-        2. Chrome DevTools. 
-        3. Mocha.
++*Debugging Tools in JavaScript*: 
+    1. Cypress.io.
+    2.  Chrome DevTools. 
+    3.  Mocha.
 
 
 ![](https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/sites/2/2019/08/JavaScript-Debugging-and-Testing.png)

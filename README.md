@@ -21,7 +21,7 @@
 |        Class 07 - Read 07                   |  [HTML Tables; JS Constructor Functions](https://daliaabdelghani.github.io/reading-notes/code201d16-read07)                                                 |
 |        Class 08  - Read 08                   | [CSS Layout](https://daliaabdelghani.github.io/reading-notes/code201d16-read08)                                                |
 |        Class 09 - Read 09                   |  [Forms and JS Events](https://daliaabdelghani.github.io/reading-notes/code201-read09)                                                 |
-|        Class 10 - Read 10                  |  *[JS Errors Handling and Debugging](https://daliaabdelghani.github.io/reading-notes/code201d16-read10                                                 |
+|        Class 10 - Read 10                  |  [JS Errors Handling and Debugging](https://daliaabdelghani.github.io/reading-notes/code201d16-read10)                                                 |
 |        Assignment 11                  |  *Will be available by assignment due date*                                                 |
 |        Assignment 12                  |  *Will be available by assignment due date*                                                 |
 |        Assignment 13                  |  *Will be available by assignment due date*                                                 |
