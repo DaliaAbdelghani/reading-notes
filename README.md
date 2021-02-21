@@ -23,7 +23,7 @@
 |        Class 09 - Read 09                   |  [Forms and JS Events](https://daliaabdelghani.github.io/reading-notes/code201-read09)                                                 |
 |        Class 10 - Read 10                  |  [JS Errors Handling and Debugging](https://daliaabdelghani.github.io/reading-notes/code201d16-read10)                                                 |
 |        Class 11 -Read 11                  |  [Audio, Video, Images](https://daliaabdelghani.github.io/reading-notes/code201d16-read11)                                                  |
-|        Assignment 12                  |  *Will be available by assignment due date*                                                 |
+|        Class 12 - Read 12                  |  [Chart.js, Canvas](https://daliaabdelghani.github.io/reading-notes/code201d16-read12)                                                 |
 |        Assignment 13                  |  *Will be available by assignment due date*                                                 |
 |        Assignment 14                  | *Will be available by assignment due date*                                                  |
 |        Assignment 15                  |  *Will be available by assignment due date*                                                 |
