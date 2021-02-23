@@ -1,4 +1,4 @@
-#Local Storage 
+# Local Storage 
 
 - Web applications don't have a persistent local storage, unlike the native client applications in which the operating system typically provides an abstraction layer for storing and retrieving application-specific data like preferences or runtime state.
 

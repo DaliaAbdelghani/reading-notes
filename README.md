@@ -25,8 +25,8 @@
 |        Class 11 -Read 11                  |  [Audio, Video, Images](https://daliaabdelghani.github.io/reading-notes/code201d16-read11)                                                  |
 |        Class 12 - Read 12                  |  [Chart.js, Canvas](https://daliaabdelghani.github.io/reading-notes/code201d16-read12)                                                |
 |        Class 13 - Read 13                  |  [Local Storage of web applications](https://daliaabdelghani.github.io/reading-notes/code201d16-read13)                                                |
-|        Assignment 14                  | *Will be available by assignment due date*                                                  |
-|        Assignment 15                  |  *Will be available by assignment due date*                                                 |
+|        Class 14 - Read 14a                  | [CSS Transforms, Transitions, and Animations](https://daliaabdelghani.github.io/reading-notes/code201d16-read14a)                                                  |
+|        class 14 -Read 14b                  |  [What Google Learned About Teams](https://daliaabdelghani.github.io/reading-notes/code201d16-read14b)                                                 |
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
