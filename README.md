@@ -2,8 +2,6 @@
 
 
 *This website is for completing assignments of the software development course presented by ASAC. The pages contain summaries and reading notes of reference materials and labs assignments.*
-![](https://media.tenor.com/images/d31277b9adfba2e3e42db7468b8f5990/tenor.gif)
-![](https://images-na.ssl-images-amazon.com/images/I/41yYIeutVaL._SX331_BO1,204,203,200_.jpg)
 
 ## Code 201 : Foundations of Software Development
 
@@ -11,10 +9,10 @@
 
 |           Assignment                  |                                         Link                                                |
 |---------------------------------------|---------------------------------------------------------------------------------------------|
-|         Lab: 01a            | [Create a Reading Notes Repo](https://daliaabdelghani.github.io/reading-notes/)             |
+|         Lab 01a            | [Create a Reading Notes Repo](https://daliaabdelghani.github.io/reading-notes/)             |
 |         Read 01             | [Introductory HTML and JavaScript](https://daliaabdelghani.github.io/reading-notes/class-01)|
-|        Read: 02             | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://daliaabdelghani.github.io/reading-notes/class-02)|                                                 |
-|        Read: 03             | [HTML Lists, CSS Boxes, JS Control Flow](https://daliaabdelghani.github.io/reading-notes/read-03)                                                 |
+|        Read 02             | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://daliaabdelghani.github.io/reading-notes/class-02)|                                                 |
+|        Read 03             | [HTML Lists, CSS Boxes, JS Control Flow](https://daliaabdelghani.github.io/reading-notes/read-03)                                                 |
 |        Read 04  | [HTML Links, CSS Layout, JS Functions](https://daliaabdelghani.github.io/reading-notes/code201-read-04)                                                 |
 |        Read 05                   | [HTML Images; CSS Color & Text](https://daliaabdelghani.github.io/reading-notes/code201-read-05)                                                 |
 |        Read 06                   |[Problem Domain, Objects, and the DOM](https://daliaabdelghani.github.io/reading-notes/class6-read06)                                                |
@@ -40,3 +38,8 @@
 |        Read: 01                       | [SMACSS and Responsive Web Design](https://daliaabdelghani.github.io/reading-notes/)        |
 |        Read: 02  	                    | [jQuery, Events, and The DOM](https://daliaabdelghani.github.io/reading-notes/class-01)     |
                                 
+
+
+
+
+                                ![](https://media.tenor.com/images/d31277b9adfba2e3e42db7468b8f5990/tenor.gif)
