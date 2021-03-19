@@ -39,30 +39,30 @@
              
 ![](https://1.bp.blogspot.com/-AIZHWSqKoGI/XIGASkN8CJI/AAAAAAAAC9Q/lSBC5zoD0A4miVSe0FM1Z9V6V2ucQwpCQCLcBGAs/s1600/%25D8%25AF%25D9%2588%25D8%25B1%25D8%25A9%2B%25D8%25A3%25D8%25B3%25D8%25A7%25D8%25B3%25D9%258A%25D8%25A7%25D8%25AA%2B%25D9%2584%25D8%25BA%25D8%25A9%2Bcss%2B%25D9%2584%25D9%2584%25D9%2585%25D8%25A8%25D8%25AA%25D8%25AF%25D8%25A6%25D9%258A%25D9%2586%2B%2528%2B%25D8%25A7%25D9%2584%25D8%25AF%25D8%25B1%25D8%25B3%2B18%2B%2BMedia%2BTypes%2B%2529.png)
 
-             *Logical operators in media queries*:
+   *Logical operators in media queries*:
              
-               + **not**: The not keyword inverts the meaning of an entire media query.
+   + **not**: The not keyword inverts the meaning of an entire media query.
 
-               + **only**: The only keyword prevents older browsers that do not support media queries with media features from applying the specified styles. It has no effect on modern browsers.
+   + **only**: The only keyword prevents older browsers that do not support media queries with media features from applying the specified styles. It has no effect on modern browsers.
 
-               + **and**: The and keyword combines a media feature with a media type or other media features.
+   + **and**: The and keyword combines a media feature with a media type or other media features.
 
-             * Media Features (expression)*:
+   *Media Features (expression)*:
 
 ![](https://image.slidesharecdn.com/mediaqueries-110718145319-phpapp01/95/css3-media-queries-mobile-elixir-or-css-snake-oil-18-728.jpg?cb=1311282768)
 
-         **Mobile first** is an approach includes using styles targeted at smaller viewports as the default styles for a website, then use media queries to add styles as the viewport grows.
+   **Mobile first** is an approach includes using styles targeted at smaller viewports as the default styles for a website, then use media queries to add styles as the viewport grows.
 
-         **Viewport** is the user's visible area of a web page. It varies with the device - it will be smaller on a mobile phone than on a computer screen.
+   **Viewport** is the user's visible area of a web page. It varies with the device - it will be smaller on a mobile phone than on a computer screen.
              
-             -  The viewport meta tag with either the height or width values will define the height or width of the viewport respectively.`<meta name="viewport" content="width=device-width, initial-scale=1.0, target-densitydpi=device-dpi">`
+   -  The viewport meta tag with either the height or width values will define the height or width of the viewport respectively.`<meta name="viewport" content="width=device-width, initial-scale=1.0, target-densitydpi=device-dpi">`
              
-             - `@viewport` provides another way to determine and control viewport in CSS sheet instead of meta tag in HTML sheet.
+   - `@viewport` provides another way to determine and control viewport in CSS sheet instead of meta tag in HTML sheet.
    
    
    3.  **Flexible media**: changing the size of images, videos, and other media types in according to change in viewport size by making them scalable using the `max-width` property with a value of 100%.
 
-            - `iframe` and embedded media are not responsive to `max-width` property , therefore; they absolutely positioned within a parent element. The parent element needs to have a width of 100% so that it may scale based on the width of the viewport. The parent element also needs to have a height of 0 to trigger the hasLayout mechanism within Internet Explorer.Padding is then given to the bottom of the parent element, the value of which is set in the same aspect ratio of the video.
+      - `iframe` and embedded media are not responsive to `max-width` property , therefore; they absolutely positioned within a parent element. The parent element needs to have a width of 100% so that it may scale based on the width of the viewport. The parent element also needs to have a height of 0 to trigger the hasLayout mechanism within Internet Explorer.Padding is then given to the bottom of the parent element, the value of which is set in the same aspect ratio of the video.
 
 
 
