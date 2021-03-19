@@ -1,11 +1,9 @@
 
 
-# Code 201 Reading Notes
-
 
 *This website is for completing assignments of the software development course presented by ASAC. The pages contain summaries and reading notes of reference materials and labs assignments.*
 
-
+# Code 201 : Foundations of Software Development
 
 ## Table of contents - 201 Daily reading assignments
 
@@ -30,3 +28,13 @@
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
+
+# Code 301 : Intermediate Software Development
+
+## Table of contents - 201 Daily reading assignments
+
+|           Assignment                  |                                         Link                                                |
+|---------------------------------------|---------------------------------------------------------------------------------------------|
+|        Read: 01                       | [SMACSS and Responsive Web Design](https://daliaabdelghani.github.io/reading-notes/)        |
+|        Read: 02  	                    | [jQuery, Events, and The DOM](https://daliaabdelghani.github.io/reading-notes/class-01)     |
+                                
