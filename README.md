@@ -35,11 +35,11 @@
 
 |           Assignment                  |                                         Link                                                |
 |---------------------------------------|---------------------------------------------------------------------------------------------|
-|        Read: 01                       | [SMACSS and Responsive Web Design](https://daliaabdelghani.github.io/reading-notes/)        |
-|        Read: 02  	                    | [jQuery, Events, and The DOM](https://daliaabdelghani.github.io/reading-notes/class-01)     |
+|        Read 01                       | [SMACSS and Responsive Web Design](https://daliaabdelghani.github.io/reading-notes/)        |
+|        Read 02  	                    | [jQuery, Events, and The DOM](https://daliaabdelghani.github.io/reading-notes/class-01)     |
                                 
 
 
 
 
-                                ![](https://media.tenor.com/images/d31277b9adfba2e3e42db7468b8f5990/tenor.gif)
+![](https://media.tenor.com/images/d31277b9adfba2e3e42db7468b8f5990/tenor.gif)
