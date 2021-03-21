@@ -62,7 +62,7 @@
    
    3.  **Flexible media**: changing the size of images, videos, and other media types in according to change in viewport size by making them scalable using the `max-width` property with a value of 100%.
 
-      - `iframe` and embedded media are not responsive to `max-width` property , therefore; they absolutely positioned within a parent element. The parent element needs to have a width of 100% so that it may scale based on the width of the viewport. The parent element also needs to have a height of 0 to trigger the hasLayout mechanism within Internet Explorer.Padding is then given to the bottom of the parent element, the value of which is set in the same aspect ratio of the video.
+   - `iframe` and embedded media are not responsive to `max-width` property , therefore; they absolutely positioned within a parent element. The parent element needs to have a width of 100% so that it may scale based on the width of the viewport. The parent element also needs to have a height of 0 to trigger the hasLayout mechanism within Internet Explorer.Padding is then given to the bottom of the parent element, the value of which is set in the same aspect ratio of the video.
 
 
 
