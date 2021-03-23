@@ -38,11 +38,10 @@
 |        Read 01                       | [SMACSS and Responsive Web Design](https://daliaabdelghani.github.io/reading-notes/code301read01)        |
 |        Read 02  	                    | [jQuery, Events, and The DOM](https://daliaabdelghani.github.io/reading-notes/code301read02)  |
 |        Read 03                        | [MUSTACHE and FLEXBOX](https://daliaabdelghani.github.io/reading-notes/code301read03)         |
-                                
+|        Read 03                         | [CSS GRID](https://daliaabdelghani.github.io/reading-notes/code301read04)      
 
 
 
--------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------
 
 
-                                    ![](https://media.tenor.com/images/e019cc7322d87ff5f9bd9dc7b227a37a/tenor.gif)
