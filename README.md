@@ -41,7 +41,7 @@
 |        Read 04                         | [CSS GRID](https://daliaabdelghani.github.io/reading-notes/code301read04)                    |
 |        Read 05                         | [HEROKU](https://daliaabdelghani.github.io/reading-notes/code301read05)                      |
 |        Read 06                        |  [NODE.JS](https://daliaabdelghani.github.io/reading-notes/code301read06)                       |
-
+|        Read 07                        | [REST](https://daliaabdelghani.github.io/reading-notes/code301read07)   
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 
