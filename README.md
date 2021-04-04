@@ -46,7 +46,7 @@
 |        Read 09             | [Refactoring](https://daliaabdelghani.github.io/reading-notes/code301read09)                      | 
 |        Read 10             | [THE CALL STACK](https://daliaabdelghani.github.io/reading-notes/code301read10)                                                                                             | 
 |       Read 11             |    [EJS](https://daliaabdelghani.github.io/reading-notes/code301read11)                                                                                               |
-
+|        Read 12             |[EJS Partials](https://daliaabdelghani.github.io/reading-notes/code301read12)
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 
