@@ -48,6 +48,9 @@
 |        Read 11             | [EJS](https://daliaabdelghani.github.io/reading-notes/code301read11)                              |
 |        Read 12             | [EJS Partials](https://daliaabdelghani.github.io/reading-notes/code301read12)                     |
 |        Read 13             | [Update/Delete](https://daliaabdelghani.github.io/reading-notes/code301read13)                    |
+|        Read 14a            | [DB Normalization](https://daliaabdelghani.github.io/reading-notes/code301read14a)                                                                                               |
+|                             |                                                                        |
+
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 
